@@ -1,0 +1,22 @@
+{
+  "name": "radiuswizard_v",
+  "version": "1.0.0",
+  "description": "border-radius for your elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayvaddem/radiuswizard.git"
+  },
+  "keywords": [
+    "border-radius"
+  ],
+  "author": "Vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayvaddem/radiuswizard/issues"
+  },
+  "homepage": "https://github.com/vijayvaddem/radiuswizard#readme"
+}
